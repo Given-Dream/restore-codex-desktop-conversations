@@ -1,5 +1,7 @@
 # Codex Desktop Conversation Restore
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 This folder contains a Windows helper workflow for restoring local Codex Desktop conversations after switching API/provider with CC Switch.
 
 The main entrypoint is:

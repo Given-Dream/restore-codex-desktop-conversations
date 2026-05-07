@@ -1,5 +1,7 @@
 ﻿# Codex Desktop 对话恢复工具
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 这个目录放的是一套 Windows 辅助脚本，用来在通过 CC Switch 切换 API/provider 后，把本地 Codex Desktop 对话重新恢复到桌面端侧边栏里。
 
 主入口是：
